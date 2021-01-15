@@ -10,4 +10,3 @@ import { createPlan } from "./plan.js"
 
 
 
-cd
