@@ -1,7 +1,7 @@
  const createSunflower = [
      {
          type: "Sunflower",
-         Height: 380,
+         height: 380,
          output: 3
      }   
  ]

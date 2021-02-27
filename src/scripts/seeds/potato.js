@@ -5,7 +5,7 @@
  const getPotato = [
      {
          type: "Potato",
-         Height: 32,
+         height: 32,
          output: 2
      }   
  ]

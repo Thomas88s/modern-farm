@@ -1,7 +1,7 @@
  const getWheat = [
      {
          type: "Wheat",
-         Height: 230,
+         height: 230,
          output: 6
      }   
  ]

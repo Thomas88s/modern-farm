@@ -2,7 +2,7 @@
  const getSoybean = [
      {
          type: "Soybean",
-         Height: 20,
+         height: 20,
          output: 4
      }   
  ]
