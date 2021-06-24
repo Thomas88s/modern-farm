@@ -10,6 +10,6 @@
      }   
  ]
 /**  console.log(createPotato);
-export const creaePotato = () => {
+export const createPotato = () => {
     return getPotato.slice()
 }**/
